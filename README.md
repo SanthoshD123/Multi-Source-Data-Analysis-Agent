@@ -262,13 +262,6 @@ This project demonstrates proficiency in:
 - Error handling
 - Data privacy compliance ready
 
-## 📞 Support
-
-For questions or support:
-- Create an issue on GitHub
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
